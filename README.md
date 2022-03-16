@@ -1,6 +1,8 @@
 # After cloning
 
- `cd TodoList`
+`cd TodoList`
 
- `yarn start`
+`yarn`
 ### Open Constants file and add items
+
+`yarn start`
